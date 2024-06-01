@@ -19,7 +19,7 @@ const NavBar = () => {
     },
     {
       id: 4,
-      link: "välipalat",
+      link: "pizza & kebab",
     },
     {
       id: 5,

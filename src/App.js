@@ -3,7 +3,7 @@ import Etusivu from "./components/Etusivu";
 import SocialLinks from "./components/SocialLinks";
 import Lounas from "./components/Lounas";
 import Alacarte from "./components/Alacarte";
-import Välipalat from "./components/Välipalat";
+import Pizzakebab from "./components/Pizzakebab";
 import Yhteystiedot from "./components/Yhteystiedot";
 import DarkMode from "./components/DarkMode";
 
@@ -14,7 +14,7 @@ const App = () => {
       <Etusivu />
       <Lounas />
       <Alacarte />
-      <Välipalat />
+      <Pizzakebab />
       <Yhteystiedot />
       <SocialLinks />
       <DarkMode />

@@ -11,9 +11,7 @@ const Yhteystiedot = () => {
           <p className="text-4xl text-gray-500 font-bold inline border-b-4 border-gray-500">
             Yhteystiedot
           </p>
-          <p className="py-6 text-gray-500">
-            Send your query to get in touch with me
-          </p>
+          <p className="py-6 text-gray-500">Lähetä palautetta</p>
         </div>
         <div className="flex justify-center items-center">
           <form
@@ -24,26 +22,26 @@ const Yhteystiedot = () => {
             <input
               type="text"
               name="name"
-              placeholder="Your name"
+              placeholder="Nimi"
               className="p-2 border-2 bg-transparent rounded-md text-gray-500 focus:outline-none"
             />
             <input
               type="text"
               name="email"
-              placeholder="Your email"
+              placeholder="Sähköposti"
               className="my-4 p-2 border-2 bg-transparent rounded-md text-gray-500 focus:outline-none"
             />
             <textarea
               name="message"
               rows="10"
-              placeholder="Enter your message"
+              placeholder="Viesti"
               className="p-2 bg-transparent border-2 rounded-md text-gray-500 focus:outline-none"
             ></textarea>
             <button
               className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto
                             flex items-center rounded-md hover:scale-110 duration-300"
             >
-              Submit
+              Lähetä
             </button>
           </form>
         </div>

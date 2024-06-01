@@ -13,26 +13,12 @@ const Lounas = () => {
           </p>
         </div>
         <p className="text-xl mt-20 text-justify">
-          I am originally from Bangladesh. Currently, I have been living in
-          Finland for 6-year. Moreover, I have completed my bachelor degree in
-          Software Engineering from the Daffodil International University, and
-          master's degree in Information Technology from the University of
-          Eastern Finland, Finland.
+          Lounas aika: Ma - Pe 11.00 - 15.30
         </p>
         <br />
-        <p className="text-xl text-justify">
-          During my study period, I have been introduced with various
-          programming languages like C, C++, C#, Java, JavaScript, PHP, Python,
-          and so no. However, after completing my master's degree, I am focusing
-          on JavaScript particularly, because of being mastering with one
-          language to get a job.
-        </p>
+        <p className="text-xl text-justify">Hinta: 12€</p>
         <p className="text-xl text-justify mt-6">
-          I like to spend my leisure time by surfing internet especially
-          watching youtube videos. However, my ultimate goal is to find a job in
-          software company, and become a full stack developer. Beside that, my
-          dream is to get the finnish nationality - most happiest country over
-          the world.
+          Valita yksi pääruoka (sis. naan, riisi, salaatti, raita)
         </p>
       </div>
     </div>

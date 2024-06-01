@@ -1,13 +1,13 @@
 import React from "react";
-import reactFirebase from "../assets/portfolio/reactFirebase.jpg";
+/* import reactFirebase from "../assets/portfolio/reactFirebase.jpg";
 import reactRouter from "../assets/portfolio/reactRouter.jpg";
 import reactRESTAPI from "../assets/portfolio/reactRESTAPI.jpg";
 import reactFakeAPI from "../assets/portfolio/reactFakeAPI.jpg";
 import reactTailwind from "../assets/portfolio/reactTailwind.jpg";
-import bootstrapLangingPage from "../assets/portfolio/bootstrapLangingPage.jpg";
+import bootstrapLangingPage from "../assets/portfolio/bootstrapLangingPage.jpg"; */
 
 const Alacarte = () => {
-  const portfolios = [
+  /*   const portfolios = [
     {
       id: 1,
       src: reactFirebase,
@@ -52,7 +52,7 @@ const Alacarte = () => {
 
   const handleCode = (code) => {
     window.open(code);
-  };
+  }; */
   return (
     <div
       name="à la carte"
@@ -64,11 +64,11 @@ const Alacarte = () => {
             À la Carte
           </p>
           <p className="py-6 text-gray-500">
-            Here are some of my developments with demo link
+            hHerkullisia intialaisia ​​ruokia
           </p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolios.map(({ id, src, demo, code }) => (
+          {/* {portfolios.map(({ id, src, demo, code }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -90,7 +90,7 @@ const Alacarte = () => {
                 </button>
               </div>
             </div>
-          ))}
+          ))} */}
         </div>
       </div>
     </div>

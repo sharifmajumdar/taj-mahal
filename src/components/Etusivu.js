@@ -1,5 +1,5 @@
 import React from "react";
-import MyImage from "../assets/ProfileImage.png";
+//import MyImage from "../assets/ProfileImage.png";
 import ImageFrame from "../assets/frame4.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
@@ -36,11 +36,13 @@ const Etusivu = () => {
           className="h-95 w-2/5 bg-slate-500 bg-contain bg-no-repeat rounded-2xl"
           style={{ backgroundImage: `url(${ImageFrame})` }}
         >
+          {/*  
           <img
             src={MyImage}
             alt="my profile"
             className="object-auto md:w-full"
           />
+          */}
         </div>
       </div>
     </div>
