@@ -55,11 +55,7 @@ const NavBar = () => {
         ></div>
         <li>
           <button className="rounded-sm mt-3 p-1 bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500">
-            <a
-              href="/resume_shariful_islam_majumdar.pdf"
-              download={true}
-              target="_blank"
-            >
+            <a href="/menu_light.pdf" download={true} target="_blank">
               MENU
             </a>
           </button>
