@@ -67,7 +67,7 @@ const Pizzakebab = () => {
   ]; */
   return (
     <div
-      name="pizzakebab"
+      name="pizza & kebab"
       className="bg-white dark:bg-gradient-to-b from-gray-800 to-black w-full h-screen"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full text-white">
