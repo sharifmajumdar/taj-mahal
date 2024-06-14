@@ -1,29 +1,9 @@
 import React from "react";
-//import {FaGithub, FaLinkedinIn} from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { MdMenuBook } from "react-icons/md";
 
 const SocialLinks = () => {
   const links = [
-    /* {
-            id: 1,
-            child: (                        
-                <>
-                    LinkedIn <FaLinkedinIn size={30} />
-                </>
-            ),
-            href: 'https://www.linkedin.com/in/shariful-islam-majumdar-a2458839/',
-            style: 'rounded-tr-md'
-        },
-        {
-            id: 2,
-            child: (                        
-                <>
-                    GitHub <FaGithub size={30} />
-                </>
-            ),
-            href: 'https://github.com/sharifmajumdar' 
-        }, */
     {
       id: 3,
       child: (
