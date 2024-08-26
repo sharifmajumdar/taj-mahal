@@ -67,6 +67,10 @@ const Yhteystiedot = () => {
             Yhteystiedot
           </p>
           <p className="py-6 text-gray-500">Yhteystiedot ja sijainti</p>
+          <p className="py-6 text-gray-500">
+            Ravintola Taj Mahal, Kirkkokatu 25b, 80100 Joensuu Soita: 045 140
+            2904 Sähköposti: tajmahaljoensuu@gmail.com
+          </p>
         </div>
         <div>
           <form

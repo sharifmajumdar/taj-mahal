@@ -11,7 +11,7 @@ const Alacarte = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             À la Carte
           </p>
-          <p className="py-6">Herkullisia intialaisia ​​ruokia</p>
+          <p className="py-6">Herkullisia intialaisia ​​ruokia ja pizzoja</p>
         </div>
 
         <div className="space-y-6">

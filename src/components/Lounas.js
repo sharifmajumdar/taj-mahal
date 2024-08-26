@@ -13,55 +13,11 @@ const Lounas = () => {
           </p>
         </div>
         <p className="text-xl mt-5 text-justify">
-          Lounas aika: Ma - Pe 11.00 - 15.30
+          Lounas aika: 10.30 - 16.00 (Ma - Pe)
         </p>
-        <br />
-        <p className="text-xl text-justify">Hinta: 12€</p>
-        <br />
-        <p className="text-xl text-justify mt-6">
-          Valita yksi pääruoka (sis. naan, riisi, salaatti, raita)
+        <p className="text-xl mt-5 text-justify">
+          Hinta: 13,20€ (ePassi, edenred, smartum, käteinen ja korti maksu)
         </p>
-        <p className="text-xl mt-10 text-justify">
-          1. CHILI CHICKEN <br />
-          Erittäin tulista kanaa maustetussa kastikkeessa
-          <br />
-          <br />
-          2. CHICKEN KORMA <br />
-          Kanaa maustetusa jogurttikastikkeessa
-          <br />
-          <br />
-          3. CHICKEN CURRY <br />
-          Kanaa kerma-currykastikkeessa
-          <br />
-          <br />
-          4. CHICKEN VINDALOO <br />
-          Kanaa vindaloo-kastikkeessa
-          <br />
-          <br />
-          5. BUTTER CHICKEN <br />
-          Kanaa mausteisella tomaatti-voikastikkeella
-          <br />
-          <br />
-          6. PALAK PANIR <br />
-          Painattia ja tuorejuustoa maustekastikkeessa
-          <br />
-          <br />
-          7. MUSHROOM JALFREZI <br />
-          Tulisesti maustettuja herkkusieniä
-          <br />
-          <br />
-          8. MALAI KOFTA <br />
-          Tiristettyjä, soseutettuja vihannespuillia
-          <br />
-          <br />
-          9. BEEF HANDI <br />
-          Naudanlihaa maustetussa kermakastikkeessa tomaatin ja sipulin kera
-          <br />
-          <br />
-          10. BEEF VINDALOO <br />
-          Tulisesti maustettua naudanlihaa chilikastikkeessa
-        </p>
-        <br />
       </div>
     </div>
   );

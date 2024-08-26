@@ -11,13 +11,13 @@ import NewsReel from "./components/NewsReel";
 const App = () => {
   return (
     <div>
-      <NewsReel />
       <NavBar />
       <Etusivu />
       <Lounas />
       <Alacarte />
       <Pizzakebab />
       <Yhteystiedot />
+      <NewsReel />
       <SocialLinks />
       <DarkMode />
     </div>
