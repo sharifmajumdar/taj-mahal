@@ -6,7 +6,7 @@ import Alacarte from "./components/Alacarte";
 import Pizzakebab from "./components/Pizzakebab";
 import Yhteystiedot from "./components/Yhteystiedot";
 import DarkMode from "./components/DarkMode";
-//import NewsReel from "./components/NewsReel";
+//import NewsReel from "./components/NewsReel"; kuljetus has been cancelled
 
 const App = () => {
   return (
