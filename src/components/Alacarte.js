@@ -50,25 +50,25 @@ const Alacarte = () => {
 
             <h3 className="mt-4 text-xl font-semibold">Kana Ruoat</h3>
             <p className="mt-2">
-              CHICKEN CURRY 16,20 € <br />
+              CHICKEN CURRY L, G 16,20 € <br />
               Kanaa kerma-currykastikkeessa <br />
               <br />
-              BUTTER CHICKEN 16,20 € <br />
+              BUTTER CHICKEN L, G 16,20 € <br />
               Kanaa mausteisessa voikastikkeessa <br />
               <br />
-              CHICKEN KORMA 16,20 € <br />
+              CHICKEN KORMA L, G 16,20 € <br />
               Kanaa maustetussa jogurttikastikkeessa <br />
               <br />
-              CHICKEN TIKKA MASALA 17,20 € <br />
+              CHICKEN TIKKA MASALA L, G 17,20 € <br />
               Marinoitua ja hiillostettua kanaa masala-kastikkeessa <br />
               <br />
-              CHICKEN TANDOORI 17,20 € <br />
+              CHICKEN TANDOORI L, G 17,20 € <br />
               Tandoori-uunissa paistettua kanaa <br />
               <br />
-              CHILI CHICKEN 16,20 € <br />
+              CHILI CHICKEN L, G 16,20 € <br />
               Erittäin tulista kanaa maustetussa kastikkeessa <br />
               <br />
-              CHICKEN VINDALOO 16,20 € <br />
+              CHICKEN VINDALOO L, G 16,20 € <br />
               Tulisesti maustettua kanaa vindaloo-kastikkeessa <br />
               <br />
             </p>
