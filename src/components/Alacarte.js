@@ -18,28 +18,28 @@ const Alacarte = () => {
           <div>
             <h2 className="text-2xl font-bold">Alkupalat</h2>
             <p className="mt-2">
-              SAMOSA 5,20 € <br />
+              SAMOSA L 5,20  € <br />
               Jauheliha tai kasvispasteija (2 kpl) <br />
               <br />
-              PAKURA 5,50 € <br />
+              PAKURA L 5,50 € <br />
               Papujauheella kuorrutettua ja tiristettyä kanaa <br />
               <br />
-              PUREE (PRAWN/ALOO/DAL) 5,20 € <br />
+              PUREE (PRAWN/ALOO/DAL) L 5,20 € <br />
               Paistettua prawn, aloo tai dal leivän päällä (2 kpl) <br />
               <br />
-              PAPADAM 2,50 € <br />
+              PAPADAM L, G 2,50 € <br />
               Papadam leipä (2 kpl) <br />
               <br />
-              SINGARA 5,20 € <br />
+              SINGARA L 5,20 € <br />
               Paistettua erilaisia vihanneksia leivän sisällä (2 kpl) <br />
               <br />
-              KEBAB (CHICKEN/BEEF/TUNA) 6,50 € <br />
+              KEBAB (CHICKEN/BEEF/TUNA) L 6,50 € <br />
               Paistettua tikka kanaa, naudan liha tai tuna (2 kpl) <br />
               <br />
-              BEGUNI 5,50 € <br />
+              BEGUNI L 5,50 € <br />
               Papujauheella paistettu monakoiso (4 kpl) <br />
               <br />
-              VEGETABLE ROLL 5,20 € <br />
+              VEGETABLE ROLL L 5,20 € <br />
               Paistettua erilaisia vihanneksia leipä roll (4 kpl) <br />
               <br />
             </p>
