@@ -22,12 +22,12 @@ const Lounas = () => {
           Alustava menu:
         </p>
         <p className="text-xl mt-5 text-justify">
-          Tiistai:
-          Alko: Friteerattu kukkakali L, V
-          Chicken korma L, G 
-          Chicken vindaalo L, G 
-          Butter dal L, G 
-          Vihannessekoitus L, G, V
+          Tiistai: <br/>
+          Alko: Friteerattu kukkakali L, V <br/>
+          Chicken korma L, G  <br/>
+          Chicken vindaalo L, G <br/>
+          Butter dal L, G <br/>
+          Vihannessekoitus L, G, V<br/>
           Matar aloo L, G, V
         </p>
       </div>
