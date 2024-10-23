@@ -18,6 +18,18 @@ const Lounas = () => {
         <p className="text-xl mt-5 text-justify">
           Hinta: 13,20€ (ePassi, edenred, smartum, käteinen ja korti maksu)
         </p>
+        <p className="text-xl mt-5 text-justify">
+          Alustava menu:
+        </p>
+        <p className="text-xl mt-5 text-justify">
+          Tiistai:
+          Alko: Friteerattu kukkakali L, V
+          Chicken korma L, G 
+          Chicken vindaalo L, G 
+          Butter dal L, G 
+          Vihannessekoitus L, G, V
+          Matar aloo L, G, V
+        </p>
       </div>
     </div>
   );
