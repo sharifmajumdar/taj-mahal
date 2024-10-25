@@ -30,6 +30,14 @@ const Lounas = () => {
           Vihannessekoitus L, G, V<br/>
           Matar aloo L, G, V
         </p>
+        <p className="text-xl mt-5 text-justify">
+          Perjantai: <br/>
+          Butter chicken L, G  <br/>
+          Chicken tikka masala L, G <br/>
+          Baigan korma L, G <br/>
+          Green beans jalfrezi L, G, V<br/>
+          Rajma aloo L, G, V
+        </p>
       </div>
     </div>
   );
