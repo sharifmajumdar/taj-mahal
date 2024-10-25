@@ -23,7 +23,6 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
-          Alko: Friteerattu kukkakali L, V <br/>
           Chicken korma L, G  <br/>
           Chicken vindaalo L, G <br/>
           Butter dal L, G <br/>
