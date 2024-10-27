@@ -13,10 +13,10 @@ const Lounas = () => {
           </p>
         </div>
         <p className="text-xl mt-5 text-justify">
-          Lounas aika: 10.30 - 16.00 (Ma - Pe)
+          Lounas aika: 11.00 - 15.00 (Ma - Pe)
         </p>
         <p className="text-xl mt-5 text-justify">
-          Hinta: 13,20€ (ePassi, edenred, smartum, käteinen ja korti maksu)
+          Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu)
         </p>
         <p className="text-xl mt-5 text-justify">
           Alustava menu:
