@@ -31,11 +31,11 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
-          Butter chicken L, G  <br/>
-          Beef handi L, G <br/>
-          Malai kofta  L, G <br/>
-          Veganinen täytetty munakoisoa L, G, V<br/>
-          Matar aloo L, G, V
+          Chicken curry L, G  <br/>
+          Chicken tikka masala L, G <br/>
+          Mushroom jalfrezi  L, G, V <br/>
+          Veganinen täytetty kesäkurpitsa L, G, V<br/>
+          Rajma aloo L, G, V
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
