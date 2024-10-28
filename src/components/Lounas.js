@@ -32,10 +32,15 @@ const Lounas = () => {
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
           Chicken curry L, G  <br/>
+          (Kanaa kerma-currykastikkeessa)<br/>
           Chicken tikka masala L, G <br/>
+          (Marinoitua ja hiillostettua kanaa masala-kastikkeessa)<br/>
           Mushroom jalfrezi  L, G, V <br/>
+          (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
           Veganinen täytetty kesäkurpitsa L, G, V<br/>
-          Rajma aloo L, G, V
+          (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
+          Rajma aloo L, G, V <br/>
+          (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
