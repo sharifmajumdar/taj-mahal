@@ -44,11 +44,16 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
-          Butter chicken L, G  <br/>
-          Beef handi L, G <br/>
-          Malai kofta  L, G <br/>
-          Veganinen täytetty munakoisoa L, G, V<br/>
-          Matar aloo L, G, V
+          Garlic chicken L, G  <br/>
+          (Kanaa valkosipuli-currykastikkeessa) <br/>
+          Butter fish L, G <br/>
+          (Lohta voikastikkeessa) <br/>
+          Palak paneer L, G <br/>
+          (Pinattia ja tuorejuustoa maustekastikkeessa) <br/>
+          Veganinen täytetty vihannessekoitus L, G, V<br/>
+          (Erilaisia vihannes maustekastikkeessa) <br/>
+          Aloo gobi  L, G, V <br/>
+          (Perunaa- ja kukkakalia maustekastikkeessa)
         </p>
         <p className="text-xl mt-5 text-justify">
           Torstai: <br/>
