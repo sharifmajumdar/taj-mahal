@@ -50,18 +50,23 @@ const Lounas = () => {
           (Lohta voikastikkeessa) <br/>
           Palak paneer L, G <br/>
           (Pinattia ja tuorejuustoa maustekastikkeessa) <br/>
-          Veganinen täytetty vihannessekoitus L, G, V<br/>
-          (Erilaisia vihannes maustekastikkeessa) <br/>
+          Veganinen täytetty porkana L, G, V<br/>
+          (Porkana-ja erilaisia vihannes maustekastikkeessa) <br/>
           Aloo gobi  L, G, V <br/>
           (Perunaa- ja kukkakalia maustekastikkeessa)
         </p>
         <p className="text-xl mt-5 text-justify">
           Torstai: <br/>
           Chicken korma L, G  <br/>
+          (Kanaa maustetussa jogurttikastikkeessa) <br/>
           Chicken vindaalo L, G <br/>
+          (Tulisesti maustettua kanaa vindaloo-kastikkeessa)<br/>
           Butter dal L, G <br/>
+          (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
           Vihannessekoitus L, G, V<br/>
-          Matar aloo L, G, V
+          (erilaisia vihannes maustekastikkeessa)<br/>
+          Baigan aloo L, G, V <br/>
+          (Perunaa- ja munakoisoa maustekastikkeessa)
         </p>
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
