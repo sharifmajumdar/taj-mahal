@@ -79,7 +79,9 @@ const Lounas = () => {
           Green beans jalfrezi L, G, V<br/>
           (Vihreää pavua, perunaa ja tomaattia maustekastikkeessa) <br/>
           Kurpitsa dal L, G<br/>
-          (Kurpitsaa, linssejä, tomattia maustekastikkeessa)
+          (Kurpitsaa, linssejä, tomattia maustekastikkeessa)<br/>
+          Biryani L, G <br/>
+          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/>
         </p>
       </div>
     </div>
