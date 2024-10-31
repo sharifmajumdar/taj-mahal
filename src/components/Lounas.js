@@ -59,7 +59,7 @@ const Lounas = () => {
           Torstai: <br/>
           Chicken korma L, G  <br/>
           (Kanaa maustetussa jogurttikastikkeessa) <br/>
-          Chicken vindaalo L, G <br/>
+          Chicken vindaloo L, G <br/>
           (Tulisesti maustettua kanaa vindaloo-kastikkeessa)<br/>
           Butter dal L, G <br/>
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
@@ -71,10 +71,15 @@ const Lounas = () => {
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
           Butter chicken L, G  <br/>
-          Chicken tikka masala L, G <br/>
+          (Kanaa mausteisessa voikastikkeessa)<br/>
+          Mutton kofta L, G <br/>
+          (Tiristettyjä ja soseutettuja lammaspullia kerma-currykastikkeessa)<br/>
           Baigan korma L, G <br/>
+          (Paistettua munakoisoa maustetussa jogurttikastikkeessa)<br/>
           Green beans jalfrezi L, G, V<br/>
-          Rajma aloo L, G, V
+          (Vihreää pavua, perunaa ja tomaattia maustekastikkeessa) <br/>
+          Kurpitsa dal L, G<br/>
+          (Kurpitsaa, linssejä, tomattia maustekastikkeessa)
         </p>
       </div>
     </div>
