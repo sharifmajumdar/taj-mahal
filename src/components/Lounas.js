@@ -24,10 +24,15 @@ const Lounas = () => {
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
           Butter chicken L, G  <br/>
+          (Kanaa mausteisessa voikastikkeessa)<br/>
           Beef handi L, G <br/>
+          (Naudanlihaa maustetussa kermakastikkeessa)<br/>
           Malai kofta  L, G <br/>
+          (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
           Veganinen täytetty munakoisoa L, G, V<br/>
-          Matar aloo L, G, V
+          (Munakoiso- ja kikherne maustekastikkeessa)<br/>
+          Matar aloo L, G, V <br/>
+          (Herneitä- ja perunaa curry-maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
@@ -39,8 +44,10 @@ const Lounas = () => {
           (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
           Veganinen täytetty kesäkurpitsa L, G, V<br/>
           (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
-          Rajma aloo L, G, V <br/>
-          (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/>
+          Butter dal L, G <br/>
+          (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
+{/*           Rajma aloo L, G, V <br/>
+          (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
