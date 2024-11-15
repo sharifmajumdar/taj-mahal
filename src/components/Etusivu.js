@@ -11,9 +11,9 @@ const Etusivu = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="w-3/5 flex flex-col justify-center h-full mr-5">
-          <h2 className="text-4xl sm:text-7xl font-bold text-gray-500">
-            Ravintola Taj Mahal
-          </h2>
+          <h1 className="text-4xl sm:text-7xl font-bold text-gray-500">
+            Ravintola Taj Mahal. Joensuu
+          </h1>
           <p className="text-gray-500 py-4 text-justify max-w-md">
             Intialainen Ravintola.
           </p>
