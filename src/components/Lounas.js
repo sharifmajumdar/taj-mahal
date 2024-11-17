@@ -19,20 +19,23 @@ const Lounas = () => {
           Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu)
         </p>
         <p className="text-xl mt-5 text-justify">
-          Alustava menu:
+          Alustava menu: <br/>
+          (Sis. mehu, salaatti bar, riisi, kasvis riisi, leipä, papadam, tulinen kastike, kahvi, tee)
         </p>
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
+          Alkupala L, G, V  <br/>
+          (Erilaisia alkuruokia joka päivä)<br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
           Beef handi L, G <br/>
           (Naudanlihaa maustetussa kermakastikkeessa)<br/>
           Malai kofta  L, G <br/>
           (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
-          Veganinen täytetty munakoisoa L, G, V<br/>
-          (Munakoiso- ja kikherne maustekastikkeessa)<br/>
-          Matar aloo L, G, V <br/>
-          (Herneitä- ja perunaa curry-maustekastikkeessa)<br/>
+          Veganinen täytetty vihannes L, G, V<br/>
+          (erilaisia ​​vihanneksia cussy-kastikkeella)<br/>
+          Jälkiruoka L <br/>
+          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
