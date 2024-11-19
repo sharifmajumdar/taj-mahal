@@ -39,6 +39,8 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
+          Alkupala L, G, V  <br/>
+          (Erilaisia alkuruokia joka päivä)<br/>
           Chicken curry L, G  <br/>
           (Kanaa kerma-currykastikkeessa)<br/>
           Chicken tikka masala L, G <br/>
@@ -49,11 +51,15 @@ const Lounas = () => {
           (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
           Butter dal L, G <br/>
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
+          Jälkiruoka L <br/>
+          (Erilaisia jäkiruokia joka päivä)<br/>
 {/*           Rajma aloo L, G, V <br/>
           (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
+          Alkupala L, G, V  <br/>
+          (Erilaisia alkuruokia joka päivä)<br/>
           Garlic chicken L, G  <br/>
           (Kanaa valkosipuli-currykastikkeessa) <br/>
           Butter fish L, G <br/>
@@ -63,10 +69,14 @@ const Lounas = () => {
           Veganinen täytetty porkana L, G, V<br/>
           (Porkana-ja erilaisia vihannes maustekastikkeessa) <br/>
           Aloo gobi  L, G, V <br/>
-          (Perunaa- ja kukkakalia maustekastikkeessa)
+          (Perunaa- ja kukkakalia maustekastikkeessa)<br/>
+          Jälkiruoka L <br/>
+          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Torstai: <br/>
+          Alkupala L, G, V  <br/>
+          (Erilaisia alkuruokia joka päivä)<br/>
           Chicken korma L, G  <br/>
           (Kanaa maustetussa jogurttikastikkeessa) <br/>
           Chicken vindaloo L, G <br/>
@@ -76,10 +86,14 @@ const Lounas = () => {
           Vihannessekoitus L, G, V<br/>
           (erilaisia vihannes maustekastikkeessa)<br/>
           Baigan aloo L, G, V <br/>
-          (Perunaa- ja munakoisoa maustekastikkeessa)
+          (Perunaa- ja munakoisoa maustekastikkeessa)<br/>
+          Jälkiruoka L <br/>
+          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
+          Alkupala L, G, V  <br/>
+          (Erilaisia alkuruokia joka päivä)<br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
           Mutton kofta L, G <br/>
@@ -92,6 +106,8 @@ const Lounas = () => {
           (Kurpitsaa, linssejä, tomattia maustekastikkeessa)<br/>
           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/>
+          Jälkiruoka L <br/>
+          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
       </div>
     </div>
