@@ -49,8 +49,6 @@ const Lounas = () => {
           (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
           Veganinen täytetty kesäkurpitsa L, G, V<br/>
           (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
-          Butter dal L, G <br/>
-          (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
           Jälkiruoka L <br/>
           (Erilaisia jäkiruokia joka päivä)<br/>
 {/*           Rajma aloo L, G, V <br/>
@@ -68,8 +66,8 @@ const Lounas = () => {
           (Pinattia ja tuorejuustoa maustekastikkeessa) <br/>
           Veganinen täytetty porkana L, G, V<br/>
           (Porkana-ja erilaisia vihannes maustekastikkeessa) <br/>
-          Aloo gobi  L, G, V <br/>
-          (Perunaa- ja kukkakalia maustekastikkeessa)<br/>
+{/*           Aloo gobi  L, G, V <br/>
+          (Perunaa- ja kukkakalia maustekastikkeessa)<br/> */}
           Jälkiruoka L <br/>
           (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
