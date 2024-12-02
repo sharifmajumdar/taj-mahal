@@ -83,8 +83,6 @@ const Lounas = () => {
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
           Vihannessekoitus L, G, V<br/>
           (erilaisia vihannes maustekastikkeessa)<br/>
-          Baigan aloo L, G, V <br/>
-          (Perunaa- ja munakoisoa maustekastikkeessa)<br/>
           Jälkiruoka L <br/>
           (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
@@ -100,8 +98,6 @@ const Lounas = () => {
           (Paistettua munakoisoa maustetussa jogurttikastikkeessa)<br/>
           Green beans jalfrezi L, G, V<br/>
           (Vihreää pavua, perunaa ja tomaattia maustekastikkeessa) <br/>
-          Kurpitsa dal L, G<br/>
-          (Kurpitsaa, linssejä, tomattia maustekastikkeessa)<br/>
           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/>
           Jälkiruoka L <br/>
