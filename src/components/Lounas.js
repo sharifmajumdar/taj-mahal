@@ -92,14 +92,14 @@ const Lounas = () => {
           (Erilaisia alkuruokia joka päivä)<br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
-          Mutton kofta L, G <br/>
-          (Tiristettyjä ja soseutettuja lammaspullia kerma-currykastikkeessa)<br/>
-          Baigan korma L, G <br/>
-          (Paistettua munakoisoa maustetussa jogurttikastikkeessa)<br/>
+          Mutton dal L, G <br/>
+          (Lammasta linssejä curry-sipulikastikkeessa)<br/>
+          Panir malai kofta L, G <br/>
+          (Uppopaistettua vihannespullaa tuoreella juustolla kerma-currykastikkeessa)<br/>
           Green beans jalfrezi L, G, V<br/>
-          (Vihreää pavua, perunaa ja tomaattia maustekastikkeessa) <br/>
-          Biryani L, G <br/>
-          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/>
+          (Vihreää papua, perunaa ja tomaattia maustekastikkeessa) <br/>
+{/*           Biryani L, G <br/>
+          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
           Jälkiruoka L <br/>
           (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
