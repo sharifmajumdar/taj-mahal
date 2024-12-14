@@ -211,6 +211,8 @@ const Alacarte = () => {
               <br />
               SOODAVESI / VESI 2,50 € / 0,50 € <br />
               <br />
+              <br/>
+          (L = Laktositon, G = Glutiniton, Vg = Vegaaninen)
             </p>
           </div>
         </div>
