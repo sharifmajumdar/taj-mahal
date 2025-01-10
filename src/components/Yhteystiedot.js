@@ -72,7 +72,7 @@ const Yhteystiedot = () => {
             2904 Sähköposti: tajmahaljoensuu@gmail.com
           </p>
           <p className="py-6 text-gray-500">
-            Aukiolojat: <br></br>
+          Aukioloajat: <br></br>
             MA 10.30 - 21.00 <br></br>
             TI 10.30 - 21.00 <br></br>
             KE 10.30 - 21.00 <br></br>
