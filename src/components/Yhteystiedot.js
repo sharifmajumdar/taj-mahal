@@ -71,6 +71,16 @@ const Yhteystiedot = () => {
             Ravintola Taj Mahal, Kirkkokatu 25b, 80100 Joensuu Soita: 045 140
             2904 Sähköposti: tajmahaljoensuu@gmail.com
           </p>
+          <p>
+            Aukiolojat: <br></br>
+            MA 10.30 - 21.00 <br></br>
+            TI 10.30 - 21.00 <br></br>
+            KE 10.30 - 21.00 <br></br>
+            TO 10.30 - 21.00 <br></br>
+            PE 10.30 - 21.00 <br></br>
+            LA 12.00 - 21.00 <br></br>
+            SU 12.00 - 20.00 <br></br>
+          </p>
         </div>
         <div>
           <form
