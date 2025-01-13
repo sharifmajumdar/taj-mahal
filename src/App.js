@@ -4,6 +4,7 @@ import SocialLinks from "./components/SocialLinks";
 import Lounas from "./components/Lounas";
 import Alacarte from "./components/Alacarte";
 import Pizzakebab from "./components/Pizzakebab";
+import Kuljetus from "./components/kuljetus";
 import Yhteystiedot from "./components/Yhteystiedot";
 import DarkMode from "./components/DarkMode";
 import NewsReel from "./components/NewsReel";
@@ -16,6 +17,7 @@ const App = () => {
       <Lounas />
       <Alacarte />
       <Pizzakebab />
+      <Kuljetus />
       <Yhteystiedot />
       <NewsReel />
       <SocialLinks />

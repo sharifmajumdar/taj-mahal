@@ -13,19 +13,17 @@ const Lounas = () => {
           </p>
         </div>
         <p className="text-xl mt-5 text-justify">
-          Lounas aika: 10.30 - 15.30 (Ma - Pe)
+          Lounas aika: 10.30 - 16.00 (Ma - Pe)
         </p>
         <p className="text-xl mt-5 text-justify">
           Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu)
         </p>
         <p className="text-xl mt-5 text-justify">
           Alustava menu: <br/>
-          (Sis. mehu, salaatti bar, riisi, leipä, papadam, tulinen kastike, kahvi, tee)
+          (Sis. Sis. Salaatti, Raita(L), Alkupala, Basmati riisi, Kasvis riisi, Naan leipä (L), Papadam (L, G), Ranskalaiset, Lounas pizza, Tulinen kastike (L, G, Vg), Mehu, Mango lassi (L), Keksi, Karkki, Kahvi ja Tee)
         </p>
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
-          Alkupala L, G, Vg  <br/>
-          (Erilaisia alkuruokia joka päivä)<br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
           Beef handi L, G <br/>
@@ -34,13 +32,9 @@ const Lounas = () => {
           (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
           Veganinen täytetty vihannes L, G, Vg<br/>
           (erilaisia ​​vihanneksia cussy-kastikkeella)<br/>
-          Jälkiruoka L <br/>
-          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
-          Alkupala L, G, Vg  <br/>
-          (Erilaisia alkuruokia joka päivä)<br/>
           Chicken curry L, G  <br/>
           (Kanaa kerma-currykastikkeessa)<br/>
           Chicken tikka masala L, G <br/>
@@ -49,15 +43,11 @@ const Lounas = () => {
           (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
           Veganinen täytetty kesäkurpitsa L, G, Vg<br/>
           (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
-          Jälkiruoka L <br/>
-          (Erilaisia jäkiruokia joka päivä)<br/>
 {/*           Rajma aloo L, G, V <br/>
           (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
-          Alkupala L, G, Vg  <br/>
-          (Erilaisia alkuruokia joka päivä)<br/>
           Garlic chicken L, G  <br/>
           (Kanaa valkosipuli-currykastikkeessa) <br/>
           Butter fish L, G <br/>
@@ -68,13 +58,9 @@ const Lounas = () => {
           (Porkana-ja erilaisia vihannes maustekastikkeessa) <br/>
 {/*           Aloo gobi  L, G, V <br/>
           (Perunaa- ja kukkakalia maustekastikkeessa)<br/> */}
-          Jälkiruoka L <br/>
-          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Torstai: <br/>
-          Alkupala L, G, Vg  <br/>
-          (Erilaisia alkuruokia joka päivä)<br/>
           Chicken korma L, G  <br/>
           (Kanaa maustetussa jogurttikastikkeessa) <br/>
           Chicken vindaloo L, G <br/>
@@ -83,13 +69,9 @@ const Lounas = () => {
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
           Vihannessekoitus L, G, Vg<br/>
           (erilaisia vihannes maustekastikkeessa)<br/>
-          Jälkiruoka L <br/>
-          (Erilaisia jäkiruokia joka päivä)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
-          Alkupala L, G, V g <br/>
-          (Erilaisia alkuruokia joka päivä)<br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
           Mutton dal L, G <br/>
@@ -100,9 +82,6 @@ const Lounas = () => {
           (Vihreää papua, perunaa ja tomaattia maustekastikkeessa) <br/>
 {/*           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
-          Jälkiruoka L <br/>
-          (Erilaisia jäkiruokia joka päivä)<br/><br/>
-          (L = Laktositon, G = Glutiniton, Vg = Vegaaninen)
         </p>
       </div>
     </div>
