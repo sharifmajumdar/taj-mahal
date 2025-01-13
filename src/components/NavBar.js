@@ -23,6 +23,10 @@ const NavBar = () => {
     },
     {
       id: 5,
+      link: "kuljetus",
+    },
+    {
+      id: 6,
       link: "yhteystiedot",
     },
   ];
