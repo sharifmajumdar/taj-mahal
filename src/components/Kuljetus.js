@@ -26,7 +26,7 @@ const Kuljetus = () => {
               Oma kuljetus <br />
               Soita: 045 140 2904 <br />
               Aika: 12.00 - 20.00 <br />
-              Huom! kaksi annosta!
+              Huom! Ilmainen kuljetus 5 kilometrin saakka (vähimmäiskulutus kaksi annosta)
               <br />
             </p>
           </div>
