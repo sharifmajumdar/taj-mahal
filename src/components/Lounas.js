@@ -16,11 +16,11 @@ const Lounas = () => {
           Lounas aika: 10.30 - 16.00 (Ma - Pe)
         </p>
         <p className="text-xl mt-5 text-justify">
-          Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu)
+          Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu) ja Lapsi: 1€/ikävuosi
         </p>
         <p className="text-xl mt-5 text-justify">
           Alustava menu: <br/>
-          (Sis. Sis. Salaatti, Raita(L), Alkupala, Basmati riisi, Kasvis riisi, Naan leipä (L), Papadam (L, G), Ranskalaiset, Lounas pizza, Tulinen kastike (L, G, Vg), Mehu, Mango lassi (L), Keksi, Karkki, Kahvi ja Tee)
+          (Sis. Sis. Salaatti, Raita(L, G), Riisi, Naan leipä (L), Papadam (L, G), Ranskalaiset, Lounas pizza, Tulinen kastike (L, G, M), Mehu, Mango lassi (L, G), Keksi, Karkki, Kahvi ja Tee)
         </p>
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
@@ -30,19 +30,19 @@ const Lounas = () => {
           (Naudanlihaa maustetussa kermakastikkeessa)<br/>
           Malai kofta  L, G <br/>
           (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
-          Veganinen täytetty vihannes L, G, Vg<br/>
-          (erilaisia ​​vihanneksia cussy-kastikkeella)<br/>
+          Veganinen täytetty munakoiso L, G, M<br/>
+          (Munakoiso kikherneillä sipuli-maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Tiistai: <br/>
           Chicken curry L, G  <br/>
           (Kanaa kerma-currykastikkeessa)<br/>
           Chicken tikka masala L, G <br/>
-          (Marinoitua ja hiillostettua kanaa masala-kastikkeessa)<br/>
-          Mushroom jalfrezi  L, G, Vg <br/>
+          (Marinoitua kanaa masala-kastikkeessa)<br/>
+          Mushroom jalfrezi  L, G, M <br/>
           (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
-          Veganinen täytetty kesäkurpitsa L, G, Vg<br/>
-          (Kesäkurpitsa- ja kikherne maustekastikkeessa)<br/>
+          Veganinen täytetty kesäkurpitsa L, G, M<br/>
+          (Kesäkurpitsa rodalinssilla sipuli-maustekastikkeessa)<br/>
 {/*           Rajma aloo L, G, V <br/>
           (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
@@ -54,8 +54,8 @@ const Lounas = () => {
           (Lohta voikastikkeessa) <br/>
           Palak paneer L, G <br/>
           (Pinattia ja tuorejuustoa maustekastikkeessa) <br/>
-          Veganinen täytetty porkana L, G, Vg<br/>
-          (Porkana-ja erilaisia vihannes maustekastikkeessa) <br/>
+          Veganinen täytetty porkana L, G, M<br/>
+          (Porkkana herneillä sipuli-maustekastikkeessa) <br/>
 {/*           Aloo gobi  L, G, V <br/>
           (Perunaa- ja kukkakalia maustekastikkeessa)<br/> */}
         </p>
@@ -67,8 +67,8 @@ const Lounas = () => {
           (Tulisesti maustettua kanaa vindaloo-kastikkeessa)<br/>
           Butter dal L, G <br/>
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
-          Vihannessekoitus L, G, Vg<br/>
-          (erilaisia vihannes maustekastikkeessa)<br/>
+          Alo gobi L, G, M<br/>
+          (Perunaa ja kukkakalia maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
@@ -78,8 +78,8 @@ const Lounas = () => {
           (Lammasta linssejä curry-sipulikastikkeessa)<br/>
           Panir malai kofta L, G <br/>
           (Uppopaistettua vihannespullaa tuoreella juustolla kerma-currykastikkeessa)<br/>
-          Green beans jalfrezi L, G, Vg<br/>
-          (Vihreää papua, perunaa ja tomaattia maustekastikkeessa) <br/>
+          Green beans jalfrezi L, G, M<br/>
+          (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
 {/*           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
         </p>

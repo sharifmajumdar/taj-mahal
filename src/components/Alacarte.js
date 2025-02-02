@@ -60,7 +60,7 @@ const Alacarte = () => {
               Kanaa maustetussa jogurttikastikkeessa <br />
               <br />
               CHICKEN TIKKA MASALA L, G 17,20 € <br />
-              Marinoitua ja hiillostettua kanaa masala-kastikkeessa <br />
+              Marinoitua kanaa masala-kastikkeessa <br />
               <br />
               CHICKEN TANDOORI L, G 17,20 € <br />
               Tandoori-uunissa paistettua kanaa <br />
