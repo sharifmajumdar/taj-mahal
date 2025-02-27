@@ -30,7 +30,7 @@ const Lounas = () => {
           (Naudanlihaa maustetussa kermakastikkeessa)<br/>
           Malai kofta  L, G <br/>
           (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
-          Veganinen täytetty munakoiso L, G, M<br/>
+          Veganinen täytetty munakoiso L, G, Veg<br/>
           (Munakoiso kikherneillä sipuli-maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
@@ -39,10 +39,10 @@ const Lounas = () => {
           (Kanaa kerma-currykastikkeessa)<br/>
           Chicken tikka masala L, G <br/>
           (Marinoitua kanaa masala-kastikkeessa)<br/>
-          Mushroom jalfrezi  L, G, M <br/>
+          Mushroom jalfrezi  L, G, Veg <br/>
           (Tulisesti herkkusieniä paprika-sipulimuhennoksen kerä)<br/>
-          Veganinen täytetty vihannessekoitus L, G, Veg<br/>
-          (vihannessekoitus rodalinssilla sipuli-maustekastikkeessa)<br/>
+          Veganinen täytetty kesäkurpitsa L, G, Veg<br/>
+          (kesäkurpitsa rodalinssilla sipuli-maustekastikkeessa)<br/>
 {/*           Rajma aloo L, G, V <br/>
           (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
@@ -54,7 +54,7 @@ const Lounas = () => {
           (Lohta voikastikkeessa) <br/>
           Palak paneer L, G <br/>
           (Pinattia ja tuorejuustoa maustekastikkeessa) <br/>
-          Veganinen täytetty porkana L, G, M<br/>
+          Veganinen täytetty porkana L, G, Veg<br/>
           (Porkkana herneillä sipuli-maustekastikkeessa) <br/>
 {/*           Aloo gobi  L, G, V <br/>
           (Perunaa- ja kukkakalia maustekastikkeessa)<br/> */}
@@ -67,7 +67,7 @@ const Lounas = () => {
           (Tulisesti maustettua kanaa vindaloo-kastikkeessa)<br/>
           Butter dal L, G <br/>
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
-          Alo gobi L, G, M<br/>
+          Alo gobi L, G, Veg<br/>
           (Perunaa ja kukkakalia maustekastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
@@ -78,7 +78,7 @@ const Lounas = () => {
           (Lammasta linssejä curry-sipulikastikkeessa)<br/>
           Panir malai kofta L, G <br/>
           (Uppopaistettua vihannespullaa tuoreella juustolla kerma-currykastikkeessa)<br/>
-          Green beans jalfrezi L, G, M<br/>
+          Green beans jalfrezi L, G, Veg<br/>
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
 {/*           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
