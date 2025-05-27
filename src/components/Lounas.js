@@ -20,7 +20,7 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Alustava menu: <br/>
-          (Sis. Sis. Salaatti, Raita(L, G), Riisi, Naan leipä (L), Papadam (L, G), Ranskalaiset, Lounas pizza, Tulinen kastike (L, G, M), Mehu, Mango lassi (L, G), Keksi, Karkki, Kahvi ja Tee)
+          (Sis. Sis. Salaatti, Raita(L, G), Riisi (L, G), Naan leipä (L), Papadam (L, G), Sormisyötävät, Lounas pizza (L), Tulinen kastike (L, G, Veg), Mehu, Mango lassi (L, G), Kahvi ja Tee)
         </p>
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
@@ -74,16 +74,17 @@ const Lounas = () => {
           Perjantai: <br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
-          Mutton dal L, G <br/>
-          (Lammasta linssejä curry-sipulikastikkeessa)<br/>
-          Panir malai kofta L, G <br/>
-          (Uppopaistettua vihannespullaa tuoreella juustolla kerma-currykastikkeessa)<br/>
+          Beef dal L, G <br/>
+          (Nautaa linssejä curry-sipulikastikkeessa)<br/>
+          Malai kofta L, G <br/>
+          (Uppopaistettua vihannespullaa kerma-currykastikkeessa)<br/>
           Green beans jalfrezi L, G, Veg<br/>
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
 {/*           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
         </p>
-        <p>Huom! L = Laktositon G = Glutiniton M = Maidoton Veg = Vegaaninen</p>
+        <p>Huom! L = Laktositon G = Glutiniton Veg = Vegaaninen</p>
+        <p>Jos sinulla on alergiaongelma, kysy myyjältä*</p>
       </div>
     </div>
   );
