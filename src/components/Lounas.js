@@ -13,7 +13,7 @@ const Lounas = () => {
           </p>
         </div>
         <p className="text-xl mt-5 text-justify">
-          Lounas aika: 10.30 - 16.00 (Ma - Pe)
+          Lounas aika: 11.00 - 16.00 (Ma - Pe)
         </p>
         <p className="text-xl mt-5 text-justify">
           Hinta: 13,50€ (ePassi, edenred, smartum, käteinen ja korti maksu) ja Lapsi: 1€/ikävuosi
@@ -82,7 +82,7 @@ const Lounas = () => {
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
 {/*           Biryani L, G <br/>
           (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
-        </p>
+        </p> <br/><br/>
         <p>Huom! L = Laktositon G = Glutiniton Veg = Vegaaninen</p>
         <p>Jos sinulla on alergiaongelma, kysy myyjältä*</p>
       </div>
