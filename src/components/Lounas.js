@@ -20,7 +20,7 @@ const Lounas = () => {
         </p>
         <p className="text-xl mt-5 text-justify">
           Alustava menu: <br/>
-          (Sis. Sis. Salaatti, Raita(L, G), Riisi (L, G), Naan leipä (L), Papadam (L, G), Sormisyötävät, Lounas pizza (L), Tulinen kastike (L, G, Veg), Mehu, Mango lassi (L, G), Kahvi ja Tee)
+          (Sis. Sis. Salaatti, Raita (L, G), Riisi (L, G), Naan leipä (L), Papadam (L, G), Sormisyötävät, Mehu, Mango lassi (L, G), Kahvi ja Tee)
         </p>
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
