@@ -78,7 +78,7 @@ const Yhteystiedot = () => {
             KE 11.00  - 21.00 <br></br>
             TO 11.00  - 21.00 <br></br>
             PE 11.00  - 21.00 <br></br>
-            LA 12.00 - 21.00 <br></br>
+            LA 11.00 - 21.00 <br></br>
             SU 12.00 - 21.00 <br></br>
           </p>
           <br></br><br></br>
