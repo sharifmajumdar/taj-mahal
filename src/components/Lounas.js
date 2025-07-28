@@ -26,7 +26,7 @@ const Lounas = () => {
           Maanantai: <br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
-          Saag chicken L, G <br/>
+          Palak chicken L, G <br/>
           (Kanapaloja pinaatti-valkosipuli-kermakastikkeessa)<br/>
 {/*           Beef handi L, G <br/>
           (Naudanlihaa maustetussa kermakastikkeessa)<br/> */}
