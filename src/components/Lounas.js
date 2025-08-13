@@ -77,6 +77,8 @@ const Lounas = () => {
           (Yrteillä linssejä voi-sipulikastikkeessa)<br/>
           Alo gobi L, G, V<br/>
           (Perunaa ja kukkakalia maustekastikkeessa)<br/>
+          Tofu curry L, G, V<br/>
+          (Tofua curry-kastikkeessa)<br/>
         </p>
         <p className="text-xl mt-5 text-justify">
           Perjantai: <br/>
