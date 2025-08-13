@@ -73,11 +73,11 @@ const Yhteystiedot = () => {
           </p>
           <p className="py-6 text-gray-500">
           Aukioloajat: <br></br>
-            MA 10.30 - 21.00 <br></br>
-            TI 10.30  - 21.00 <br></br>
-            KE 10.30  - 21.00 <br></br>
-            TO 10.30  - 21.00 <br></br>
-            PE 10.30  - 21.00 <br></br>
+            MA 11.00 - 21.00 <br></br>
+            TI 11.00  - 21.00 <br></br>
+            KE 11.00  - 21.00 <br></br>
+            TO 11.00  - 21.00 <br></br>
+            PE 11.00  - 21.00 <br></br>
             LA 12.00 - 21.00 <br></br>
             SU 12.00 - 21.00 <br></br>
           </p>
