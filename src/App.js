@@ -6,13 +6,13 @@ import Alacarte from "./components/Alacarte";
 import Pizzakebab from "./components/Pizzakebab";
 import Kuljetus from "./components/Kuljetus";
 import Yhteystiedot from "./components/Yhteystiedot";
-import DarkMode from "./components/DarkMode";
-import NewsReel from "./components/NewsReel";
+//import DarkMode from "./components/DarkMode";
+//import NewsReel from "./components/NewsReel";
 
 const App = () => {
   return (
     <div>
-            <NewsReel />
+          
       <NavBar />
       <Etusivu />
       <Lounas />
@@ -22,7 +22,7 @@ const App = () => {
       <Yhteystiedot />
       
       <SocialLinks />
-      <DarkMode />
+       
     </div>
   );
 };
