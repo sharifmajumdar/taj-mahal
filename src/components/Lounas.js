@@ -92,8 +92,8 @@ const Lounas = () => {
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
           Chana masala L, G, V<br/>
           (Kikherneitä maustetussa masalakastikkeessa) <br/>
-          Biryani L, G <br/>
-          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/>
+{/*           Biryani L, G <br/>
+          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
         </p> <br/><br/>
         <p>Huom! L = Laktositon G = Glutiniton V = Vegaaninen</p>
         <p>Jos sinulla on alergiaongelma, kysy myyjältä*</p>
