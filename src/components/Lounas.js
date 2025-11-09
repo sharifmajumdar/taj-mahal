@@ -22,14 +22,19 @@ const Lounas = () => {
           Alustava menu: <br/>
           (Sis. salaattipöytä, mehu, riisi, naanleipä (L), pizza (L), sormisyötävät, sekä jälkiruoka.)
         </p>
-        <p className="text-xl mt-5 text-justify">
+        <p>
+        <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
+        </div>
+        <script defer src="https://lounastaja.app/widget/base.min.js">
+        </script>
+        </p>
+
+        {/* <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
           Palak chicken L, G <br/>
           (Kanapaloja pinaatti-valkosipuli-kermakastikkeessa)<br/>
-{/*           Beef handi L, G <br/>
-          (Naudanlihaa maustetussa kermakastikkeessa)<br/> */}
           Malai kofta  L, G <br/>
           (Tiristettyjä ja soseutettuja vihannespullia kerma-currykastikkeessa)<br/>
           Veganinen täytetty munakoiso L, G, V<br/>
@@ -49,8 +54,6 @@ const Lounas = () => {
           (kesäkurpitsa rodalinssilla sipuli-maustekastikkeessa)<br/>
           Baigan korma L, G<br/>
           (Paistettua munakoisoa maustetussa jogurttikastikkeessa)<br/>
-{/*           Rajma aloo L, G, V <br/>
-          (Rajmaa- ja perunaa curry-maustekastikkeessa)<br/> */}
         </p>
         <p className="text-xl mt-5 text-justify">
           Keskivikko: <br/>
@@ -64,8 +67,6 @@ const Lounas = () => {
           (Porkkana herneillä sipuli-maustekastikkeessa) <br/>
           Vihannessekoitus  L, G, V<br/>
           (Erilaisia vihanneksia maustekastikkeessa) <br/>
-{/*           Aloo gobi  L, G, V <br/>
-          (Perunaa- ja kukkakalia maustekastikkeessa)<br/> */}
         </p>
         <p className="text-xl mt-5 text-justify">
           Torstai: <br/>
@@ -92,9 +93,7 @@ const Lounas = () => {
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
           Chana masala L, G, V<br/>
           (Kikherneitä maustetussa masalakastikkeessa) <br/>
-{/*           Biryani L, G <br/>
-          (Mausteista, hitaasti kypsytettyä riisiä kanan kanssa)<br/> */}
-        </p> <br/><br/>
+        </p> <br/><br/> */}
         <p>Huom! L = Laktositon G = Glutiniton V = Vegaaninen</p>
         <p>Jos sinulla on alergiaongelma, kysy myyjältä*</p>
       </div>
