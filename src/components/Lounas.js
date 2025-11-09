@@ -11,6 +11,10 @@ const Lounas = () => {
           <p className="text-4xl text-gray-500 font-bold inline border-b-4 border-grey-900">
             Lounas
           </p>
+                  <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
+        </div>
+        <script defer src="https://lounastaja.app/widget/base.min.js">
+        </script>
         </div>
         <p className="text-xl mt-5 text-justify">
           Lounas aika: 10.30 - 16.00 (Ma - Pe)
