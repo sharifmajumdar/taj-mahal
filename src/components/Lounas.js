@@ -22,14 +22,14 @@ const Lounas = () => {
           Alustava menu: <br/>
           (Sis. salaattipöytä, mehu, riisi, naanleipä (L), pizza (L), sormisyötävät, sekä jälkiruoka.)
         </p>
-        <p>
+{/*         <p>
         <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
         </div>
         <script defer src="https://lounastaja.app/widget/base.min.js">
         </script>
-        </p>
+        </p> */}
 
-        {/* <p className="text-xl mt-5 text-justify">
+        <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
           Butter chicken L, G  <br/>
           (Kanaa mausteisessa voikastikkeessa)<br/>
@@ -93,7 +93,7 @@ const Lounas = () => {
           (Vihreää papua, paprikaa ja tomaattia maustekastikkeessa) <br/>
           Chana masala L, G, V<br/>
           (Kikherneitä maustetussa masalakastikkeessa) <br/>
-        </p> <br/><br/> */}
+        </p> <br/><br/>
         <p>Huom! L = Laktositon G = Glutiniton V = Vegaaninen</p>
         <p>Jos sinulla on alergiaongelma, kysy myyjältä*</p>
       </div>
