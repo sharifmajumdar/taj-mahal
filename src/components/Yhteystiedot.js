@@ -85,7 +85,7 @@ const Yhteystiedot = () => {
         </div>
         <div>
           <form
-            action="https://getform.io/f/71dbc174-ada3-4c92-a84e-eea4ec18dca7"
+            action="https://getform.io/f/bolzplka"
             method="POST"
             className="flex flex-col w-full md:w-1/2"
           >
