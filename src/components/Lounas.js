@@ -15,7 +15,28 @@ const Lounas = () => {
       }
     };
   }, []);
-  
+
+  return (
+    <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6"></div>
+  );
+};
+
+/* const Lounas = () => {
+  useEffect(() => {
+    // Load the script dynamically
+    const script = document.createElement('script');
+    script.src = 'https://lounastaja.app/widget/base.min.js';
+    script.defer = true;
+    document.body.appendChild(script);
+
+    // Cleanup function to remove script when component unmounts
+    return () => {
+      if (document.body.contains(script)) {
+        document.body.removeChild(script);
+      }
+    };
+  }, []);
+
   return (
     <div
       name="lounas"
@@ -109,6 +130,6 @@ const Lounas = () => {
       </div>
     </div>
   );
-};
+}; */
 
 export default Lounas;
