@@ -26,12 +26,10 @@ const Lounas = () => {
           Alustava menu: <br/>
           (Sis. salaattipöytä, mehu, riisi, naanleipä (L), pizza (L), sormisyötävät, sekä jälkiruoka.)
         </p>
-{/*         <p>
-        <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
-        </div>
-        <script defer src="https://lounastaja.app/widget/base.min.js">
-        </script>
-        </p> */}
+          <div data-lounastaja-widget-id="pEK1DOSclBGNcIML7bEJ" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
+          </div>
+          <script defer src="https://lounastaja.app/widget/base.min.js">
+          </script>
 
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
