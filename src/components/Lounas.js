@@ -1,6 +1,21 @@
 import React from "react";
 
 const Lounas = () => {
+  useEffect(() => {
+    // Load the script dynamically
+    const script = document.createElement('script');
+    script.src = 'https://lounastaja.app/widget/base.min.js';
+    script.defer = true;
+    document.body.appendChild(script);
+
+    // Cleanup function to remove script when component unmounts
+    return () => {
+      if (document.body.contains(script)) {
+        document.body.removeChild(script);
+      }
+    };
+  }, []);
+  
   return (
     <div
       name="lounas"
@@ -11,10 +26,6 @@ const Lounas = () => {
           <p className="text-4xl text-gray-500 font-bold inline border-b-4 border-grey-900">
             Lounas
           </p>
-                  <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
-        </div>
-        <script defer src="https://lounastaja.app/widget/base.min.js">
-        </script>
         </div>
         <p className="text-xl mt-5 text-justify">
           Lounas aika: 10.30 - 16.00 (Ma - Pe)
@@ -26,10 +37,7 @@ const Lounas = () => {
           Alustava menu: <br/>
           (Sis. salaattipöytä, mehu, riisi, naanleipä (L), pizza (L), sormisyötävät, sekä jälkiruoka.)
         </p>
-          <div data-lounastaja-widget-id="pEK1DOSclBGNcIML7bEJ" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6">
-          </div>
-          <script defer src="https://lounastaja.app/widget/base.min.js">
-          </script>
+        <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6"></div>
 
         <p className="text-xl mt-5 text-justify">
           Maanantai: <br/>
