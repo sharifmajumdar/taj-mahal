@@ -1,7 +1,11 @@
 import React from "react";
 
 const Lounas = () => {
-  useEffect(() => {
+  <P>
+    Katso päivän lista:
+    https://www.lounaat.info/lounas/ravintola-taj-mahal/joensuu
+  </P>
+/*   useEffect(() => {
     // Load the script dynamically
     const script = document.createElement('script');
     script.src = 'https://lounastaja.app/widget/base.min.js';
@@ -18,7 +22,7 @@ const Lounas = () => {
 
   return (
     <div data-lounastaja-widget-id="GSQuYapj5bOav0OQjYWo" data-api-key="91c157a5-52d7-41ab-9773-ce4de03a91e6"></div>
-  );
+  ); */
 };
 
 /* const Lounas = () => {
