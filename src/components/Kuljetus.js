@@ -17,18 +17,21 @@ const Kuljetus = () => {
           <div>
             <h2 className="text-2xl font-bold">Kotin kuljetus</h2>
             <p className="mt-2">
-              Wolt <br />
-              https://wolt.com/en/fin/joensuu/restaurant/ravintola-taj-mahal?srsltid=AfmBOoq_LONi6RYF-5NP8CEx_fJob5h1w40ewKgmXfYOA0B6UGMP-k7D <br />
+              Wolt:  <br />
+              <a
+            href="https://wolt.com/en/fin/joensuu/restaurant/ravintola-taj-mahal?srsltid=AfmBOoq_LONi6RYF-5NP8CEx_fJob5h1w40ewKgmXfYOA0B6UGMP-k7D "
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline hover:text-blue-700"
+          ></a>
               <br />
-              Foodora<br />
-              https://www.foodora.fi/en/restaurant/sxsc/ravintola-taj-mahal-sxsc <br />
-              <br />
-              Oma kuljetus <br />
+              Oma kuljetus: <br />
             <button className="rounded-sm mt-3 p-1 bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500">
             <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
             Tilaa tästä
             </a>
           </button><br />
+              tai <br />
               Soita: 045 140 2904 <br />
               Aika: 12.00 - 20.00 <br />
               Huom! Ilmainen kuljetus 5 kilometrin saakka (vähimmäiskulutus kaksi annosta!!!) tai 1 € / kilometrin
