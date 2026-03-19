@@ -1,6 +1,6 @@
-import React from "react";
+//import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import { Link } from "react-scroll";
+//import { Link } from "react-scroll";
 import ImageFrame from "../assets/frame4.png";
 
 const Etusivu = () => {
@@ -18,7 +18,18 @@ const Etusivu = () => {
             Intialaista ruokaa
           </p>
           <div>
-            <Link
+            <a
+                href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500 cursor-pointer"
+              >
+                Tilaa kotiin kuljetus
+                <span className="group-hover:rotate-90 duration-300">
+                  <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+                </span>
+              </a>
+{/*             <Link
               to="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf"
               smooth
               duration={500}
@@ -28,7 +39,7 @@ const Etusivu = () => {
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
-              </Link>
+              </Link> */}
 {/*               <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
               Tilaa kotin kuljetus
               </a> */}
