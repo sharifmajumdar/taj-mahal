@@ -1,10 +1,13 @@
 import React from "react";
 
 const Lounas = () => {
-  <P>
+  return(
+  <span>
     Katso päivän lista:
     https://www.lounaat.info/lounas/ravintola-taj-mahal/joensuu
-  </P>
+ </span>
+  )
+
 /*   useEffect(() => {
     // Load the script dynamically
     const script = document.createElement('script');
