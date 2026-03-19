@@ -59,8 +59,8 @@ const NavBar = () => {
         ></div>
         <li>
           <button className="rounded-sm mt-3 p-1 bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500">
-            <a href="/menu_light.pdf" download={true} target="_blank">
-              MENU
+            <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank">
+              Tilaa tästä
             </a>
           </button>
         </li>
