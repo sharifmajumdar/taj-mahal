@@ -28,6 +28,7 @@ const Etusivu = () => {
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
+              </Link>
             <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank">
               Tilaa kotin kuljetus
             </a>
