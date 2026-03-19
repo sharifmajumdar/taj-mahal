@@ -28,7 +28,7 @@ const Kuljetus = () => {
             <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
             Tilaa tästä
             </a>
-          </button>
+          </button><br />
               Soita: 045 140 2904 <br />
               Aika: 12.00 - 20.00 <br />
               Huom! Ilmainen kuljetus 5 kilometrin saakka (vähimmäiskulutus kaksi annosta!!!) tai 1 € / kilometrin
