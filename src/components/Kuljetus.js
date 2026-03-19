@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 
 const Kuljetus = () => {
   return (
@@ -24,6 +24,11 @@ const Kuljetus = () => {
               https://www.foodora.fi/en/restaurant/sxsc/ravintola-taj-mahal-sxsc <br />
               <br />
               Oma kuljetus <br />
+            <button className="rounded-sm mt-3 p-1 bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500">
+            <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
+            Tilaa tästä
+            </a>
+          </button>
               Soita: 045 140 2904 <br />
               Aika: 12.00 - 20.00 <br />
               Huom! Ilmainen kuljetus 5 kilometrin saakka (vähimmäiskulutus kaksi annosta!!!) tai 1 € / kilometrin
