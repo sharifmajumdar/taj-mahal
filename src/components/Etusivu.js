@@ -19,19 +19,19 @@ const Etusivu = () => {
           </p>
           <div>
             <Link
-              to="lounas"
+              to="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf"
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gray-500 shadow-md shadow-sky-700 dark:shadow-white hover:scale-105 duration-500 cursor-pointer"
             >
-              Lounas
+              Tilaa kotin kuljetus
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
               </Link>
-              <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
+{/*               <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
               Tilaa kotin kuljetus
-              </a>
+              </a> */}
           </div>
         </div>
         <div
