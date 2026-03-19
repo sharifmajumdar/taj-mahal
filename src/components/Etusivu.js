@@ -15,7 +15,7 @@ const Etusivu = () => {
             Ravintola Taj Mahal. Joensuu
           </h1>
           <p className="text-gray-500 py-4 text-justify max-w-md">
-            Intialainen Ravintola.
+            Intialaista ruokaa
           </p>
           <div>
             <Link
