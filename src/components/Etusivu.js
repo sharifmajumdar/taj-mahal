@@ -29,9 +29,9 @@ const Etusivu = () => {
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
               </Link>
-            <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank">
+              <a href="https://order.site/ravintola-taj-mahal/en/fin/joensuu/restaurant/ravintola-taj-mahal-sf" target="_blank" rel="noopener noreferrer">
               Tilaa kotin kuljetus
-            </a>
+              </a>
           </div>
         </div>
         <div
