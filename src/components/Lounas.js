@@ -22,9 +22,15 @@ const Lounas = () => {
           Alustava menu: <br/>
         </p>
         <p>
-               Katso päivän lista: <a href="https://www.lounaat.info/lounas/ravintola-taj-mahal/joensuu" target="_blank" rel="noopener noreferrer">
+          Katso päivän lista:{" "}
+          <a
+            href="https://www.lounaat.info/lounas/ravintola-taj-mahal/joensuu"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-500 underline hover:text-blue-700"
+          >
             lounaat.info
-            </a>
+          </a>
         </p>
 
       </div>
